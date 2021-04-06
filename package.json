@@ -16,8 +16,6 @@
   },
   "license": "MIT",
   "babel": {
-    "presets": [
-      "./babelrc.js"
-    ]
+    "presets": ["next/babel"]
   }
 }
